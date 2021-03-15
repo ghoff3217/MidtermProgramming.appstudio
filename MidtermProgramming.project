@@ -22,24 +22,24 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "animals",
+            "animals.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "Form2",
-            "Form2.json"
+            "bucketList",
+            "bucketList.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "Form3",
-            "Form3.json"
+            "calculate",
+            "calculate.json"
           ]
         }
       ],
@@ -62,7 +62,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "animals",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
